@@ -1,0 +1,4 @@
+repository "Mind Garden git@DingMan777@cloud"
+  path "/"
+    br "/main"
+    co "/main"
